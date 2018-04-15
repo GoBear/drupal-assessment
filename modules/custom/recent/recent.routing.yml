@@ -1,0 +1,8 @@
+recent.output:
+  path: 'recent-articles'
+  defaults:
+    _controller: '\Drupal\recent\Controller\RecentController::recentArticle'
+    _title: 'Recent Articles'
+  requirements:
+    _permission: 'access content'
+

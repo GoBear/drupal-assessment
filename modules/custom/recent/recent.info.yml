@@ -1,0 +1,5 @@
+name: Recent Custom Module
+type: module
+description: 'A recent custom module.'
+package: custom
+core: 8.x
